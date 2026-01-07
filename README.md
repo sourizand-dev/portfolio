@@ -24,6 +24,10 @@ A modern multi-page interior design website.
 - Language: German
 
 
+### Corporate Landing Page (Sample)
+- Live demo: https://sourizand-dev.github.io/corporate-landing-page/
+- Tech stack: HTML, CSS, JavaScript
+- Type: One-page corporate website
 
 
 ## Contact
