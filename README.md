@@ -38,6 +38,20 @@ A Persian (RTL) online shop UI designed for small businesses.
 - Language: Persian (RTL)
 
 
+### Persian Cafe – RTL Cafe Website
+A modern Persian (RTL) cafe website designed to represent a real-world coffee shop.
+
+- Live demo: https://sourizand-dev.github.io/persian-cafe/
+- Source code: https://github.com/sourizand-dev/persian-cafe
+- Tech stack: HTML, CSS, JavaScript, PHP
+- Features:
+  - RTL (Right-To-Left) layout support
+  - Cafe menu and product listing
+  - Simple ordering interface
+  - Comment and interaction system
+- Language: Persian (RTL)
+
+
 ## Contact
 - GitHub: https://github.com/sourizand-dev
 
