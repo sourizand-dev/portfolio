@@ -29,6 +29,14 @@ A modern multi-page interior design website.
 - Tech stack: HTML, CSS, JavaScript
 - Type: One-page corporate website
 
+### Persian Shop – RTL E-commerce Website
+A Persian (RTL) online shop UI designed for small businesses.
+
+- Live demo: https://sourizand-dev.github.io/persian-shop/
+- Source code: https://github.com/sourizand-dev/persian-shop
+- Tech stack: HTML, CSS, JavaScript
+- Language: Persian (RTL)
+
 
 ## Contact
 - GitHub: https://github.com/sourizand-dev
